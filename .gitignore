@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Python environment files
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# MySQL / database dumps
+*.sql.bak
+*.dump
+
+# OS files
+.DS_Store
+
+# Personal/local configuration
+config.ini
+credentials.json
+secrets.json
+
+# Power BI temporary/backup files
+*.pbit
+*.pbix.bak
